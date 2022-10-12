@@ -1,0 +1,21 @@
+.font{display:flex;
+    background-color:darkcyan;
+    justify-content: space-evenly;
+     height: 70px;
+     padding-top:  35px;
+     font-size: xx-large;
+     text-decoration: none;
+}
+.font a{
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+    background-color:darksalmon;
+    background-image: -moz-radial-gradient();
+    box-shadow: 6px 6px 5px;
+    
+}
+.font a{margin-top: -10px;
+    text-align: center;
+
+}
